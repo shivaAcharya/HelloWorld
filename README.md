@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<https://github.com/shivaAcharya/HelloWorld/blob/master/imgs/HelloWorld_walkthrough.gif />
+<img src='HelloWorld_walkthrough.gif' title='Video Walkthrough' width='' alt='Vide Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
